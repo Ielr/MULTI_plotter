@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# G. Rigon (LULI)
+# Program upload under: GNU General Public License v3.0  - 13 Nov. 2020
+# inital author: G. Rigon (LULI)
 
 ####!/usr/bin/python3 -i
 import numpy as np
