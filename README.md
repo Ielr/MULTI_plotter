@@ -21,4 +21,4 @@ python3 prog_name.py
 
 or with ipython3.
 
-There is only one difference between new_multi.py and libre_parcours.py: the unit used to display the opacity.
+There is only one difference between multi_opacity.py and libre_parcours.py: the unit used to display the opacity.
