@@ -22,3 +22,5 @@ python3 prog_name.py
 or with ipython3.
 
 There is only one difference between multi_opacity.py and libre_parcours.py: the unit used to display the opacity.
+
+ENding sessions: After closing the window just click enter in you terminal to end python.
